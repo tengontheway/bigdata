@@ -1,5 +1,5 @@
 # bigdata
-前期数据相关的AppDemo,仅作为测试
+基于react-native的数据相关AppDemo,仅作为测试
 
 ## install
 ```
